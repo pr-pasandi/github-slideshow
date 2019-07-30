@@ -1,5 +1,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Hey
 Use your feet to go back!
